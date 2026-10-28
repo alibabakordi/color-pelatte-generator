@@ -14,3 +14,6 @@ HTML, CSS, Vanilla JS
 
 ## Run
 Open index.html in browser
+
+## Live Demo
+https://alibabakordi.github.io/color-pelatte-generator/
